@@ -1,4 +1,4 @@
-# [Monster Kong](https://example.com/)
+# [Monster Kong](https://tebesoft.github.io/monster-kong/dist/index.html)
 
 ![Screenshot](screenshot.png)
 
